@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Secrets: never commit real keys
+.env
+
+# Data: keep the folders, ignore what's inside them
+data/*/*
+!data/*/.gitkeep
+
+# Experiment tracking (from week 3)
+mlruns/
+
+# OS clutter
+.DS_Store
+Thumbs.db
