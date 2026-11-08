@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "This is a project to learn ai engineering to get ready for jobs"
 readme = "README.md"
 authors = [
-    { name = "Ankush Lakkanna~", email = "ankush.lakkanna@gmail.com" }
+    { name = "Ankush Lakkanna", email = "ankush.lakkanna@gmail.com" }
 ]
 requires-python = ">=3.12"
 dependencies = [
